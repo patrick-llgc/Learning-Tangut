@@ -4,6 +4,8 @@ This is an unofficial translation of the book "The story of Tangut Script (西�
 
 This book was published in 1989, and is still the best introductory book I have read on the Tangut Script (西夏文字). This book has roughly 180 pages. My plan is to finish it within 180 days (by end of 2022).
 
+![](assets/front_cover.jpg)
+
 ## Table of Contents
 
 ### 第一話　西夏王国的成立和西夏文字
