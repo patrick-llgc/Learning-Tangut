@@ -31,3 +31,7 @@ This book was published in 1989, and is still the best introductory book I have 
 ### 第四話　西夏人の格言-->
 
 
+## References
+- [百年西夏学](https://xixia.nxu.edu.cn/info/1067/2600.htm)
+- [Obituary: Big Apple Founder Luc H.M. Kwanten 陆宽田](https://www.publishersweekly.com/pw/by-topic/industry-news/Obituary/article/88003-obituary-big-apple-founder-luc-h-m-kwanten.html)
+- 卜士礼，CMG，MD（英语：Stephen Wootton Bushell)
